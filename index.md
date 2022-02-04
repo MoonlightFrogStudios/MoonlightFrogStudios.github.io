@@ -1,5 +1,5 @@
 ---
-theme: cayman
+theme: jekyll-theme-midnight
 layout: page
 title: "Main Webpage"
 permalink: /
