@@ -1,6 +1,8 @@
 ---
 theme: jekyll-theme-cayman
 overview: true
+title: "Documentation"
+tagline: Documentation for our projects
 permalink: /docs/
 ---
 
