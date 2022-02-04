@@ -1,5 +1,4 @@
 ---
-layout: default
 overview: true
 permalink: /docs/
 ---
