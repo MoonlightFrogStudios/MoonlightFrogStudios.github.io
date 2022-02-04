@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+layout: page
+title: "Documentation"
+permalink: /docs/
