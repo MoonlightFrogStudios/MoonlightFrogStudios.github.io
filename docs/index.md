@@ -1,6 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 overview: true
+layout: default
 title: "Documentation"
 tagline: Documentation for our projects
 permalink: /docs/
