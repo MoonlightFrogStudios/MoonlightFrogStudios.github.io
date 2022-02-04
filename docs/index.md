@@ -1,7 +1,7 @@
 ---
 layout: default
 overview: true
-permalink: /
+permalink: /docs/
 ---
 
 <section class="intro">
