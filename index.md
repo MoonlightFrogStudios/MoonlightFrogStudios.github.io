@@ -1,7 +1,7 @@
 ---
-theme: jekyll-theme-cayman
+theme: cayman
 layout: page
-title: "Main"
+title: "Main Webpage"
 permalink: /
 ---
 #Moonlight Frog Studios
