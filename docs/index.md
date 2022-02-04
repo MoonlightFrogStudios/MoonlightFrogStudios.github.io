@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-cayman
 overview: true
 permalink: /docs/
 ---
