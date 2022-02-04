@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 overview: true
 permalink: /docs/
 ---
